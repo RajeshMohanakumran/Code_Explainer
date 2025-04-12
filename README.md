@@ -1,9 +1,8 @@
-# 📝 Multilingual Code Explanation Assistant 🌍
+# 📝 Code Explanation Assistant 🌍
 
-Welcome to the **Multilingual Code Explanation Assistant**! This **Streamlit** web app provides **multilingual explanations** for any code snippet you provide, powered by the Hugging Face model, **Mistral-7B**. Whether you're a beginner or experienced coder, this app helps you understand code in multiple languages in a simple and concise manner. 🚀
+Welcome to the **Code Explanation Assistant**! This **Streamlit** web app provides **explanations** for any code snippet you provide, powered by the Hugging Face model, **Mistral-7B**. Whether you're a beginner or experienced coder, this app helps you understand code in multiple languages in a simple and concise manner. 🚀
 
 ## Features 🎯:
-- **Multilingual Support**: Get code explanations in a variety of languages like **English**, **Spanish**, **French**, **German**, and more! 🌐
 - **Easy-to-Use Interface**: Just paste your code and choose the language for the explanation. 🤖
 - **Powered by Hugging Face**: Utilizes the powerful **Mistral-7B** model for accurate and clear explanations. 💡
 - **Interactive and User-Friendly**: Built with **Streamlit** for a seamless experience. 🖥️
@@ -23,6 +22,6 @@ To set up and run the app locally, follow these steps:
    ```bash
    pip install -r requirements.txt
 3. **Run the Streamlit app**:
-   ```bash
+   ```bashhttps://github.com/RajeshMohanakumran/Code_Explainer.git
    streamlit run app.py
    
