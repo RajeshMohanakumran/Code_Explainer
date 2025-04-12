@@ -17,12 +17,12 @@ To set up and run the app locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/nishadi-s/CodeExplainer.git
+   git clone https://github.com/RajeshMohanakumran/Code_Explainer.git
 2. **Install the required dependencies**:
    ```bash
    pip install -r requirements.txt
 3. **Run the Streamlit app**:
-   ```bashhttps://github.com/RajeshMohanakumran/Code_Explainer.git
+   ```bash https://github.com/RajeshMohanakumran/Code_Explainer.git
    streamlit run app.py
 #  Deployment Link :
 https://codeexplainer-assistant-98545.streamlit.app/
